@@ -1,10 +1,14 @@
-# Basic_Fractal_Generator
-Written in C++ with Swingame SDK, this Program uses a simple recursive function to draw fractal-like structures on the user's screen.
+# Basic Fractal Generator
+[<img align="right" src="https://gdurl.com/IPHeU">](https://github.com/AndrewColbeck)
 
-Footage of code available at:
-https://www.youtube.com/watch?v=--mn0SrRB4E
+## Description:
+Written in C# with Swingame SDK, this program uses a simple recursive function to draw fractal-like structures on the user's screen.  This program builds on code provided by Dr. Prince Kurumthodathu Surendran.<br>
+High Definition footage available [here](https://youtu.be/vglVAUBuh0E)<br><br><br>
 
-This Program builds on code provided by Dr. Prince Kurumthodathu Surendran, and in this version, recursion has been capped (nothing can have a radius of less than 8 pixels) to suit standard computer monitors.
-
-Future development will hopefully entail porting the Program to a 3D environment.<br><br>
-Copyright © 2018 Andrew Colbeck
+Andrew Colbeck © 2018<br>
+B.Sc. Computer Science, B.A. Audio Engineering (Hons)    <br>
+follow: 
+[<img src="https://gdurl.com/vYH5">](https://github.com/AndrewColbeck)
+[<img src="https://gdurl.com/xpGoe">](https://www.facebook.com/andrewtcolbeck)
+[<img src="https://gdurl.com/FGea">](https://www.youtube.com/channel/UCG9CXPHtEN6zEz-KmLGFT2A)
+[<img src="https://gdurl.com/f8fuk">](https://www.linkedin.com/in/andrewcolbeck)
